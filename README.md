@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=isaacrma9-gltich&style=for-the-badge&color=blueviolet" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=isaacrma9-glitch&style=for-the-badge&color=blueviolet" alt="profile views" />
 </p>
 
 ---
@@ -28,10 +28,10 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [**ai-news-github**](https://github.com/isaacrma9-gltich/ai-news-github) | Autonomous AI agent that fetches, summarizes & delivers daily AI news via Discord | Python · Anthropic API · GitHub Actions |
-| [**Portfolio Web**](https://github.com/isaacrma9-gltich/Portfolio-Web) | Premium personal portfolio with modern design | HTML · CSS · JavaScript |
-| [**airbnb-landing**](https://github.com/isaacrma9-gltich/airbnb-landing) | Interactive property listing UI with filtering & search | Vanilla JS · CSS |
-| [**N8N Automations**](https://github.com/isaacrma9-gltich/N8N) | Workflow automation with MCP integration | N8N · MCP |
+| [**ai-news-github**](https://github.com/isaacrma9-glitch/ai-news-github) | Autonomous AI agent that fetches, summarizes & delivers daily AI news via Discord | Python · Anthropic API · GitHub Actions |
+| [**Portfolio Web**](https://github.com/isaacrma9-glitch/Portfolio-Web) | Premium personal portfolio with modern design | HTML · CSS · JavaScript |
+| [**airbnb-landing**](https://github.com/isaacrma9-glitch/airbnb-landing) | Interactive property listing UI with filtering & search | Vanilla JS · CSS |
+| [**N8N Automations**](https://github.com/isaacrma9-glitch/N8N) | Workflow automation with MCP integration | N8N · MCP |
 
 ---
 
@@ -53,13 +53,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=isaacrma9-gltich&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=isaacrma9-glitch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacrma9-gltich&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacrma9-glitch&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=isaacrma9-gltich&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=isaacrma9-glitch&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
