@@ -1,6 +1,6 @@
 <h1 align="left">👋 Hi, I'm 👨🏻‍💻 <span style="color:#58a6ff">Isaac</span>!</h1>
 
-<h3 align="left">🚀 Building AI like it's 2050, but debugging like it's 1999.</h3>
+<h3 align="left">🤖 Teaching machines to think. Learning from them back.</h3>
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=101isack101&style=for-the-badge&color=232323" alt="profile views" />
