@@ -1,6 +1,6 @@
 <h1 align="left">👋 Hi, I'm 👨🏻‍💻 <span style="color:#58a6ff">Isaac</span>!</h1>
 
-<h3 align="left">🤖 Teaching machines to think. Learning from them back.</h3>
+<h3 align="left">🚀 Building AI like it's 2050, but debugging like it's 1999.</h3>
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=101isack101&style=for-the-badge&color=232323" alt="profile views" />
@@ -35,7 +35,7 @@
   <a href="https://github.com/101isack101" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://wa.me/50688888888" target="_blank">
+  <a href="https://wa.me/50662853680" target="_blank">
     <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="mailto:isaac.rma9@gmail.com">
