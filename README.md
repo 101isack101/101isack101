@@ -3,7 +3,7 @@
 <h3 align="left">🚀 Building AI like it's 2050, but debugging like it's 1999.</h3>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=isaacrma9-glitch&style=for-the-badge&color=232323" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=101isack101&style=for-the-badge&color=232323" alt="profile views" />
 </p>
 
 <table width="100%">
@@ -11,7 +11,7 @@
     <td width="55%" valign="top">
       <ul>
         <li>🌍 Based in <b>Costa Rica / Remote</b></li>
-        <li>💻 Explore My Work: <a href="https://github.com/isaacrma9-glitch/Portfolio-Web">Portfolio</a></li>
+        <li>💻 Explore My Work: <a href="https://github.com/101isack101/Portfolio-Web">Portfolio</a></li>
         <li>📧 Contact me: <a href="mailto:isaac.rma9@gmail.com">isaac.rma9@gmail.com</a></li>
         <li>🏅 Currently building <b>AI-powered agents & multi-agent systems</b></li>
         <li>🧠 Exploring <b>Claude API, AWS Step Functions & LangGraph</b> in real workflows</li>
@@ -19,7 +19,7 @@
       </ul>
     </td>
     <td width="45%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=isaacrma9-glitch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="380" />
+      <img src="https://github-readme-stats.vercel.app/api?username=101isack101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="380" />
     </td>
   </tr>
 </table>
@@ -32,7 +32,7 @@
   <a href="https://www.linkedin.com/in/isaac-ramirez-4133871b6" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/isaacrma9-glitch" target="_blank">
+  <a href="https://github.com/101isack101" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://wa.me/50688888888" target="_blank">
@@ -83,19 +83,19 @@
 ## 🔥 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/isaacrma9-glitch/ai-news-github">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=isaacrma9-glitch&repo=ai-news-github&theme=tokyonight&hide_border=true" width="380" />
+  <a href="https://github.com/101isack101/ai-news-github">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=101isack101&repo=ai-news-github&theme=tokyonight&hide_border=true" width="380" />
   </a>
-  <a href="https://github.com/isaacrma9-glitch/N8N">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=isaacrma9-glitch&repo=N8N&theme=tokyonight&hide_border=true" width="380" />
+  <a href="https://github.com/101isack101/N8N">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=101isack101&repo=N8N&theme=tokyonight&hide_border=true" width="380" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/isaacrma9-glitch/Portfolio-Web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=isaacrma9-glitch&repo=Portfolio-Web&theme=tokyonight&hide_border=true" width="380" />
+  <a href="https://github.com/101isack101/Portfolio-Web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=101isack101&repo=Portfolio-Web&theme=tokyonight&hide_border=true" width="380" />
   </a>
-  <a href="https://github.com/isaacrma9-glitch/airbnb-landing">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=isaacrma9-glitch&repo=airbnb-landing&theme=tokyonight&hide_border=true" width="380" />
+  <a href="https://github.com/101isack101/airbnb-landing">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=101isack101&repo=airbnb-landing&theme=tokyonight&hide_border=true" width="380" />
   </a>
 </p>
 
@@ -104,9 +104,9 @@
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isaacrma9-glitch&theme=tokyo-night&hide_border=true&area=true" width="800" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=101isack101&theme=tokyo-night&hide_border=true&area=true" width="800" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=isaacrma9-glitch&theme=tokyonight&hide_border=true" width="800" />
+  <img src="https://streak-stats.demolab.com?user=101isack101&theme=tokyonight&hide_border=true" width="800" />
 </p>
